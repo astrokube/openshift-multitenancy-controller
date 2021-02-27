@@ -1,0 +1,3 @@
+domain: astrokube.io
+repo: astrokube.io/ocp/multitenancy-controller
+version: "2"
